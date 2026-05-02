@@ -1,0 +1,28 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+*.env
+
+# PHP config with credentials
+php/config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
